@@ -1,0 +1,12 @@
+.blog{
+	background: #ccc;
+	padding: 15px;
+	margin-top:10px;
+}
+
+.blog p{
+	font-size: 12pt;
+}
+.blog h3{
+	/*font-size: 15pt;*/
+}
